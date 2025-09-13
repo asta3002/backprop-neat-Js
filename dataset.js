@@ -14,7 +14,7 @@ var DataSet = {};
   "use strict";
 
   // settings
-  var nSize = 200; // training size
+  var nSize = 1000; // training size
   var nTestSize = 200; // testing size
   var noiseLevel = 0.5;
 
